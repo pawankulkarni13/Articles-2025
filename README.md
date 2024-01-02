@@ -6,4 +6,4 @@ In this repo. I will be covering the topics which I plan to write about.
 
 |Topic Name | Description | Link |
 | ------ | ------ | ------ |
-| || 
+| PostgreSQL as Vector Database | In this topic I will cover about Vector database and how postgresql can be used as a vector database.| -- | 
