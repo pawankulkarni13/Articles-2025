@@ -8,3 +8,9 @@ In this repo. I will be covering the topics which I plan to write about.
 | ------ | ------ | ------ |
 | PostgreSQL as Vector Database | In this topic I will cover about Vector database and how postgresql can be used as a vector database.| [Link](https://github.com/pawankulkarni13/Articles-2024/blob/master/ai/embeddings/Postgresql%20as%20Vector%20database.md) | 
 | How does Graphql work | In this topic I will cover about what is Graphql and how it can be used. I already have a working repository but want to touch base on how and what graphql could do ||
+
+## Feb - 2025
+
+|Topic Name | Description | Link |
+| ------ | ------ | ------ |
+| Redis Expiry | How does expiry of key is handled in Redis | |
